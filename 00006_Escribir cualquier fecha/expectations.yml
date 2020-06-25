@@ -1,8 +1,8 @@
 ---
 expectations:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: Fecha
-  inspection: HasUsage:PonerN
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: Fecha
-  inspection: Not:HasRepeat
+  - !ruby 
+    binding: Fecha
+    inspection: HasUsage:PonerN
+  - !ruby 
+    binding: Fecha
+    inspection: Not:HasRepeat

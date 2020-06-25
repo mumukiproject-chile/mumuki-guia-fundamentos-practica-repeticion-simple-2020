@@ -1,5 +1,5 @@
-¡Dividí en subtareas!
+¡Divide en subtareas!
 
-No vale hacer un procedimiento que sea un _choclo_, con muchos comandos uno abajo del otro, tiene que ser legible y cortito.
+No vale hacer un procedimiento que sea un _mamotreto_, con muchos comandos uno abajo del otro; tiene que ser legible y cortito.
 
-Pensá como combinar `PonerN` y `MoverN`, los cuales podés encontrar en la siempre útil **Biblioteca**.
+Piensa cómo combinar `PonerN` y `MoverN`, que puedes encontrar en la siempre útil **Biblioteca**.
