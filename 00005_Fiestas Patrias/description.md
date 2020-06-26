@@ -1,6 +1,6 @@
 Muchas veces vamos a usar el tablero de Gobstones como memoria, es decir, para recordar algo importante que vamos a necesitar más adelante.
 
-¿Qué podríamos representar con bolitas? Por ejemplo, una fecha. Una fecha que debemos recordar es el _18 de septiembre de 1810_, el Día de la Independencia de Chile, que hoy se conmemora como [Fiestas Patrias](https://es.wikipedia.org/wiki/D%C3%ADa_Nacional_de_la_Memoria_por_la_Verdad_y_la_Justicia).
+¿Qué podríamos representar con bolitas? Por ejemplo, una fecha. Una fecha que debemos recordar es el _18 de septiembre de 1810_, el Día de la Independencia de Chile, que hoy se conmemora como [Fiestas Patrias](https://es.wikipedia.org/wiki/Fiestas_Patrias_en_Chile).
 
 El objetivo, entonces, es hacer un procedimiento `FiestasPatrias()`:
 
