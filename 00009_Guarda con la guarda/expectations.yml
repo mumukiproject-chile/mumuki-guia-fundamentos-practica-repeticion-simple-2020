@@ -1,8 +1,0 @@
----
-expectations:
-  - !ruby 
-    binding: ListelDe5
-    inspection: HasUsage:PonerN
-  - !ruby 
-    binding: ListelDe5
-    inspection: HasRepeat

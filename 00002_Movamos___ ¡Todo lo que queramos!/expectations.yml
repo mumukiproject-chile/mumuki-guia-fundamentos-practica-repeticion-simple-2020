@@ -1,8 +1,0 @@
----
-expectations:
-  - !ruby 
-    binding: MoverN
-    inspection: HasArity:2
-  - !ruby 
-    binding: MoverN
-    inspection: HasRepeat

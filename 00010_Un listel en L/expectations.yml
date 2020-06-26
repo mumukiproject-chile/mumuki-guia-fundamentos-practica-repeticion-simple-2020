@@ -1,14 +1,17 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: LineaEstePesada
-  inspection: HasArity:3
+  binding: ListelEnL
+  inspection: Not:HasUsage:Poner
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: LineaEstePesada
+  binding: ListelEnL
+  inspection: Not:HasUsage:PonerN
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: ListelEnL
   inspection: HasRepeat
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: LineaEstePesada
-  inspection: HasUsage:PonerN
+  binding: ListelEnL
+  inspection: HasUsage:PonerAzulejo
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: LineaEstePesada
+  binding: ListelEnL
   inspection: HasUsage:MoverN

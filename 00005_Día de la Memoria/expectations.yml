@@ -1,8 +1,0 @@
----
-expectations:
-  - !ruby 
-    binding: FiestasPatrias
-    inspection: HasUsage:PonerN
-  - !ruby 
-    binding: FiestasPatrias
-    inspection: Not:HasRepeat

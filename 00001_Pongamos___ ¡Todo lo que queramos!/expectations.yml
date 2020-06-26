@@ -1,8 +1,0 @@
----
-expectations:
-  - !ruby 
-    binding: PonerN
-    inspection: HasArity:2
-  - !ruby 
-    binding: PonerN
-    inspection: HasRepeat
