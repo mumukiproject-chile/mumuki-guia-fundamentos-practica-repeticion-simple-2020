@@ -14,3 +14,7 @@ examples:
       cell 1 0 Verde 9
       cell 2 0 Negro 1810
       head 2 0
+    arguments:
+      - 18
+      - 9
+      - 1810
