@@ -11,8 +11,8 @@ Muchas veces vamos a usar el tablero de Gobstones como memoria, es decir, para r
 <gs-board> 
   GBB/1.0 
   size 3 1 
-  cell 0 0 Azul 24 
-  cell 1 0 Verde 3 
-  cell 2 0 Negro 1976 
+  cell 0 0 Azul 18 
+  cell 1 0 Verde 9 
+  cell 2 0 Negro 1810 
   head 2 0 
 </gs-board>
