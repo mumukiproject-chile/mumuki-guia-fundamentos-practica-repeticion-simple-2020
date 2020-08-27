@@ -1,4 +1,4 @@
-Hacer un procedimiento `ListelEnL()` que haga una listel en L como muestra la figura, pero **dejando el cabezal en la posición inicial**.
+> Define un procedimiento `ListelEnL()` que haga una listel en L como muestra la figura, pero **dejando el cabezal en la posición inicial**.
 
 <gs-board> GBB/1.0 
             size 3 3 
