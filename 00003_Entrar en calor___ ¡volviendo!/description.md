@@ -10,7 +10,8 @@ procedure Diagonal4Azul(){
 }
 ```
 
-¿Te animas a definir el procedimiento `Diagonal4AzulVolviendo`? Este procedimiento debería _hacer lo mismo_ que `Diagonal4Azul`, pero tiene que dejar el cabezal **en la posición inicial**.
+> ¿Te animas a definir el procedimiento `Diagonal4AzulVolviendo`? Este procedimiento debería _hacer lo mismo_ que `Diagonal4Azul`, pero tiene que dejar el cabezal **en la posición inicial**.
+No vale volver a escribir el código que ya escribiste en la guía pasada. ¡No hay que repetir código! Entonces, puedes usar `Diagonal4Azul()` sin definirlo. :wink:
 
 <gs-board> 
   GBB/1.0 
@@ -22,4 +23,4 @@ procedure Diagonal4Azul(){
   head 0 0 
 </gs-board>
 
-**¡Ojo!** No vale volver a escribir el código que ya escribiste en la guía pasada. ¡No hay que repetir código! Entonces, puedes usar `Diagonal4Azul()` sin definirlo. :wink:
+
