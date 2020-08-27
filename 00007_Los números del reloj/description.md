@@ -7,7 +7,7 @@ Ahora, tienes que mostrar que puedes _dibujar un reloj_. Lo que haremos por ahor
 * El 9 a la izquierda, y
 * el 6 abajo.
 
-> Haz un procedimiento `DibujarReloj(radio)`, que ponga los números del reloj como se indica arriba, **alrededor del casillero actual**. El tamaño del reloj se indica con el `radio` que recibes por parámetro: mientras más grande es el radio, más alejados están los números del centro.
+> Define un procedimiento `DibujarReloj(radio)`, que ponga los números del reloj como se indica arriba, **alrededor del casillero actual**. El tamaño del reloj se indica con el `radio` que recibes por parámetro: mientras más grande es el radio, más alejados están los números del centro.
 
 Dado el siguiente program:
 
