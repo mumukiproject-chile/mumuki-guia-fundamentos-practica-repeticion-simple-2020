@@ -1,6 +1,6 @@
 Bueno, es hora de hacer un ejercicio integrador...
 
-> Haz un procedimiento `ListelDe5()` que forme un listel de 5 azulejos (como los que decoran las paredes). Cada **azulejo** está conformado por 1 bolita verde, 5 negras y 9 rojas.
+> Define un procedimiento `ListelDe5()` que forme un listel de 5 azulejos (como los que decoran las paredes). Cada **azulejo** está conformado por 1 bolita verde, 5 negras y 9 rojas.
 
 <gs-board> GBB/1.0 
             size 6 2 
